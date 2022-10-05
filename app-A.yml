@@ -9,6 +9,6 @@ management:
         include: "refresh, bus-refresh, beans, env"
 
 heading:
-  level: "one"
-  font: "Calibri"
-  size: 24
+  level: "zero"
+  font: "Helvetica"
+  size: 12
