@@ -1,3 +1,9 @@
 spring:
   application:
     name: "app-A"
+    
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "refresh, bus-refresh, beans, env"
