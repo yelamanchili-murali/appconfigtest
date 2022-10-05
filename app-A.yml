@@ -1,6 +1,6 @@
 spring:
   application:
-    name: "app-A"
+    name: "app-A-enterprise"
     
 management:
   endpoints:
@@ -11,3 +11,4 @@ management:
 heading:
   level: "one"
   font: "Calibri"
+  size: 24
