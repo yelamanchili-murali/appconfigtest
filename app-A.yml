@@ -1,1 +1,3 @@
-spring.application.name=app-A
+spring:
+  application:
+    name: "app-A"
